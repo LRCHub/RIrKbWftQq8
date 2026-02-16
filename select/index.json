@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "多重星",
+  "base_artist": "挫・人間",
+  "createdAt": "2026-02-16T14:50:01.230933Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "多重星",
+      "artist": "挫・人間",
+      "has_synced": false,
+      "path": "select/pl_01_多重星_挫・人間.txt"
+    }
+  ]
+}
